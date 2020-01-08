@@ -15,7 +15,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -30,7 +29,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -45,7 +43,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -60,7 +57,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -75,7 +71,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -90,7 +85,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -105,7 +99,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -120,7 +113,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -135,7 +127,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -150,7 +141,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -165,7 +155,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -180,7 +169,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -195,7 +183,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -210,7 +197,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -225,7 +211,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -240,7 +225,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -255,7 +239,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -270,7 +253,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -285,7 +267,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -300,7 +281,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -315,7 +295,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -330,7 +309,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -345,7 +323,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -360,7 +337,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -375,7 +351,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -390,7 +365,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -405,7 +379,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -420,7 +393,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -435,7 +407,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
@@ -450,7 +421,6 @@ def check(*args):
         plt.xlabel('Transport')
         plt.tight_layout()
         for i in ax.patches:
-            # get_x pulls left or right; get_height pushes up or down
             ax.text(i.get_x(), i.get_height()+200, \
                 str(round((i.get_height()), 2)), fontsize=11, color='dimgrey',rotation=90)
         plt.show()
